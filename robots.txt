@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://corginine.github.io/sitemap
+Sitemap: https://corginine.github.io/app/sitemap
+Sitemap: https://corginine.github.io/assets/sitemap
+Sitemap: https://corginine.github.io/css/sitemap
+Sitemap: https://corginine.github.io/includes/sitemap
+Sitemap: https://corginine.github.io/item/sitemap
+Sitemap: https://corginine.github.io/src/sitemap
